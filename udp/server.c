@@ -12,7 +12,7 @@ void close_server (int socket);
 char start_daemon();
 
 static char slave_barn[100] = {};
-static const char LOG_FILE [] = "/home/yaroslav/CLionProjects/Server/server_logs.log";
+static const char LOG_FILE [] = "/home/yaroslav/task/server_logs/server_logs.log";
 
 int main() {
 
